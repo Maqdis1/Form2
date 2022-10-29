@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box {
+    width: 400px;
+    height: 600px;
+    background-color: rgb(202, 200, 200);
+    padding: 30px;
+    border: 10px ridge rgb(189, 188, 188);
+}
+
+.btn  {
+    width: 150px;
+    border: 8px ridge gray;
+}
